@@ -1,0 +1,23 @@
+table {
+    border: 1px solid black;
+  border-collapse: collapse;
+}
+td {
+    border: 1px solid black;
+}
+tr {
+    border: 1px solid black;
+}
+th {
+    border: 1px solid black;
+}
+caption {
+    font-size: 30px;
+}
+.Main {
+    width: 350px;
+    height: 50px;
+    background-color: thistle;
+    color: blue;
+
+}
